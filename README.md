@@ -1,6 +1,8 @@
 -----
 
-# Memory Access and Trace Analysis Tools for ChampSim for the version here https://github.com/svassi04/RRIP_work/tree/main
+# Memory Access and Trace Analysis Tools for ChampSim 
+
+for the version here https://github.com/svassi04/RRIP_work/tree/main
 
 This document outlines new functionality added to a ChampSim binary and provides a set of scripts for analyzing memory access patterns and trace files.
 
@@ -32,7 +34,7 @@ ip: 7ffff69f819d destination_memory: 7fffffffdc48
 
 ## 2\. Trace Manipulation Scripts
 
-The following scripts, located in `/mnt/beegfs/svassi04`, are designed to process and manipulate ChampSim traces.
+The following scripts are designed to process and manipulate ChampSim traces.
 
 ### 2.1. Cutting Traces
 
